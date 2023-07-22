@@ -31,7 +31,7 @@ My duties performed:
     - reviewing code when running it, changing folder structures and fixing errors overall in master branch every time its updated
     - assisting students with debugging their code
        
-- Designing pages lo-fi & hi-fi on Figma for website:
+- Designing pages lo-fi & hi-fi on Figma for website interface, learning UI/UX in web dev:
     - Lo-fi mobile design blog page
     - Hi-fi mobile design blog page
     - Lo-fi progress of project
