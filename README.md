@@ -5,7 +5,7 @@ This capstone project was completed over two university semesters.
 Basis of the project was developing a website using React.
 Link to GitHub repo; my contributions can be found via --> https://github.com/Chameleon-company/Chameleon-Website.git or through this forked repository.
 
-My role was the project leader for the website - i worked as the lead for the following teams:
+My role was the project leader for the website - i worked as the lead for the following teams, managing a team of 20 students:
    - website development team
    - design team
 
