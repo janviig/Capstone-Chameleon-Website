@@ -31,14 +31,14 @@ My duties performed:
     - reviewing code when running it, changing folder structures and fixing errors overall in master branch every time its updated
     - assisting students with debugging their code
        
-- Designing pages lo-fi & hi-fi on Figma for website interface, learning UI/UX in web dev:
+- Designing pages lo-fi & hi-fi on Figma for website interface, learning UI/UX in web dev, folder in this repository - labelled as 'designs':
 
-Lo-fi:
+	-Lo-fi:
 	•	Lo-fi mobile design blog page
 	•	Website lo-fi sign up page
 	•	Lo-fi progress of project
 
-Hi-fi Website:
+	-Hi-fi Website:
 	•	website hi-fi homepage dark mode
 	•	website hi-fi forgot password page light mate
 	•	website Hi-fi dark mode emerging tech option 1 & 2
@@ -47,13 +47,13 @@ Hi-fi Website:
 	•	website hi-fi sign in page
 	•	website hi-fi dark mode faq page
 
-Hi-fi mobile:
+	-Hi-fi mobile:
 	•	Hi-fi mobile designs of events calendar page
 	•	Hi-fi mobile designs of faq page
 	•	Hi-fi mobile designs of emerging tech page
 	•	Hi-fi mobile design blog page
 
-EV website:
+	-EV website:
 	•	Hi-fi website FAQ page
 	•	Hi-fi footer page
 	•	Hi-fi website contact us page 
