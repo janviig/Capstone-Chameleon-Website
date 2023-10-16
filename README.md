@@ -39,23 +39,23 @@ My duties performed:
 		- Lo-fi progress of project
 
 	- Hi-fi Website:
-	•	website hi-fi homepage dark mode
-	•	website hi-fi forgot password page light mate
-	•	website Hi-fi dark mode emerging tech option 1 & 2
-	•	website hi-fi dark mode progress of project
-	•	website hi-fi sign up page
-	•	website hi-fi sign in page
-	•	website hi-fi dark mode faq page
+		- website hi-fi homepage dark mode
+		- website hi-fi forgot password page light mate
+		- website Hi-fi dark mode emerging tech option 1 & 2
+		- website hi-fi dark mode progress of project
+		- website hi-fi sign up page
+		- website hi-fi sign in page
+		- website hi-fi dark mode faq page
 
 	- Hi-fi mobile:
-	•	Hi-fi mobile designs of events calendar page
-	•	Hi-fi mobile designs of faq page
-	•	Hi-fi mobile designs of emerging tech page
-	•	Hi-fi mobile design blog page
+		- Hi-fi mobile designs of events calendar page
+		- Hi-fi mobile designs of faq page
+		- Hi-fi mobile designs of emerging tech page
+		- Hi-fi mobile design blog page
 
 	- EV website:
-	•	Hi-fi website FAQ page
-	•	Hi-fi footer page
-	•	Hi-fi website contact us page 
+		- Hi-fi website FAQ page
+		- Hi-fi footer page
+		- Hi-fi website contact us page 
 
 
